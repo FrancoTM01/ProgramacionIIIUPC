@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\clase1\\clase1.csproj",
+      "projectUniqueName": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\Laboratorio 1\\clase1\\clase1.csproj",
       "projectName": "clase1",
-      "projectPath": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\clase1\\clase1.csproj",
+      "projectPath": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\Laboratorio 1\\clase1\\clase1.csproj",
       "packagesPath": "C:\\Users\\FRANCO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\clase1\\obj\\",
+      "outputPath": "C:\\Users\\FRANCO\\Desktop\\Universidad Privada Cumbre\\Programacion III\\Laboratorio 1\\clase1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FRANCO\\AppData\\Roaming\\NuGet\\NuGet.Config",
